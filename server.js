@@ -1,4 +1,4 @@
-var http = require('http');
+/*var http = require('http');
 const { StarRail } =  require("starrail.js");
 
 
@@ -21,4 +21,4 @@ app.get('/hsr', function(req, res) {
     });
 });
 
-console.log("Server running at http://localhost:3000/hsr");
+console.log("Server running at http://localhost:3000/hsr");*/
